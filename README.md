@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**ramees777/ramees777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ramees777/ramees777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ![tumblr_m85c7zsiMG1rqfhi2o1_400](https://user-images.githubusercontent.com/77093090/152725408-5a2f76d5-5384-40ca-b548-1a28fdba0617.gif)
 
 Here are some ideas to get you started:
