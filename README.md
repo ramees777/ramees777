@@ -36,24 +36,20 @@ I love the entire process of developing web applications. I love the challenge o
 
 ## 💼 Technical Skills
 
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
 ![](https://img.shields.io/badge/Code-Sequelize-52B0E7?style=flat&logo=Sequelize&color=white)
 ![](https://img.shields.io/badge/Code-python-3670A0?style=flat&logo=python&color=ffdd54)
-![](https://img.shields.io/badge/Framework-django-%23092E20?style=flat&logo=django&color=white)
-![](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&color=red)
+![](https://img.shields.io/badge/Code-django-%23092E20?style=flat&logo=django&color=white)
+![](https://img.shields.io/badge/Code-REST-ff1709?style=flat&logo=django&color=red)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-express.js-%23404d59?style=flat&logo=express&color=%2361DAFB)
 ![](https://img.shields.io/badge/Code-node.js-6DA55F?style=flat&logo=node.js&color=white)
 ![](https://img.shields.io/badge/Code-Flutter-%2302569B?style=flat&logo=Flutter&color=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/DB-mysql-%2300f?style=flat&logo=mysql&color=white)
+![](https://img.shields.io/badge/Code-mysql-%2300f?style=flat&logo=mysql&color=white)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/API-Postman-FF6C37?style=flat&logo=postman&color=white)
-![](https://img.shields.io/badge/Cloud-firebase-%23039BE5?style=flat&logo=firebase&color=white)
+![](https://img.shields.io/badge/Code-Postman-FF6C37?style=flat&logo=postman&color=white)
+![](https://img.shields.io/badge/Code-firebase-%23039BE5?style=flat&logo=firebase&color=white)
 
 
 
