@@ -40,9 +40,14 @@ I love the entire process of developing web applications. I love the challenge o
 
 ![](https://img.shields.io/badge/Code-Sequelize-52B0E7?style=flat&logo=Sequelize&color=white)
 ![](https://img.shields.io/badge/Code-python-3670A0?style=flat&logo=python&color=ffdd54)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Framework-django-%23092E20?style=flat&logo=django&color=white)
-![](https://img.shields.io/badge/Code-express.js-%23404d59?style=flat&logo=django&color=%2361DAFB)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-express.js-%23404d59?style=flat&logo=express&color=%2361DAFB)
+![](https://img.shields.io/badge/Code-node.js-6DA55F?style=flat&logo=node.js&color=white)
+![](https://img.shields.io/badge/Code-Flutter-%2302569B?style=flat&logo=Flutter&color=%white)
+![](https://img.shields.io/badge/Code-DJANGO-REST-ff1709?style=flat&logo=django&color=gray)
+
+
 
 <!-- ![](https://img.shields.io/badge/Framework-DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) -->
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
