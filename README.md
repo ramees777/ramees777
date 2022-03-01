@@ -21,8 +21,8 @@ I love the entire process of developing web applications. I love the challenge o
 ## 🔭 I'm currently working on
 
 - My old projects
-- inversion Academy App (React-Native)
-- Mobile + Desktop flutter mynotes application (Working on it soon...)
+- inversion Academy App (Express Server)
+- Mobile + Desktop flutter mynotes application (Working on it )
 - My python skill
 
 
@@ -71,7 +71,7 @@ I love the entire process of developing web applications. I love the challenge o
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramees777&layout=compact)](https://github.com/ramees777)
 
-
+My Weekly Workflow
 
 ![any](https://github.com/ramees777/docsium-bot/blob/main/lib/template.svg)
 
