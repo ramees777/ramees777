@@ -1,4 +1,6 @@
- ✨ ![Banner](https://user-images.githubusercontent.com/77093090/156116376-4022dfd2-ef0d-42f9-89d0-838713e95fdf.jpg)
+ ![Banner](https://user-images.githubusercontent.com/77093090/156116376-4022dfd2-ef0d-42f9-89d0-838713e95fdf.jpg)
+ 
+ <img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 Here are some ideas to get you started:
 
