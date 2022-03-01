@@ -1,5 +1,4 @@
-
-**ramees777/ramees777** is a ✨ _s![Banner](https://user-images.githubusercontent.com/77093090/156116376-4022dfd2-ef0d-42f9-89d0-838713e95fdf.jpg)
+ ✨ ![Banner](https://user-images.githubusercontent.com/77093090/156116376-4022dfd2-ef0d-42f9-89d0-838713e95fdf.jpg)
 
 Here are some ideas to get you started:
 
