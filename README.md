@@ -41,12 +41,16 @@ I love the entire process of developing web applications. I love the challenge o
 ![](https://img.shields.io/badge/Code-Sequelize-52B0E7?style=flat&logo=Sequelize&color=white)
 ![](https://img.shields.io/badge/Code-python-3670A0?style=flat&logo=python&color=ffdd54)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/DB-mysql-%2300f?style=flat&logo=mysql&color=white)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Framework-django-%23092E20?style=flat&logo=django&color=white)
-![](https://img.shields.io/badge/Framework-DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/Code-express.js-%23404d59?style=flat&logo=django&color=%2361DAFB)
+
+<!-- ![](https://img.shields.io/badge/Framework-DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) -->
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/DB-mysql-%2300f?style=flat&logo=mysql&color=white)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+
+
 
 </br>
 Here are some ideas to get you started:
