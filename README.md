@@ -51,7 +51,7 @@ I love the entire process of developing web applications. I love the challenge o
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/DB-mysql-%2300f?style=flat&logo=mysql&color=white)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/API Test-Postman-FF6C37?style=flat&logo=postman&color=white)
+![](https://img.shields.io/badge/API-Test-Postman-FF6C37?style=flat&logo=postman&color=white)
 
 
 
