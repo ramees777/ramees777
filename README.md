@@ -31,7 +31,7 @@ I love the entire process of developing web applications. I love the challenge o
 ## 🌱 I'm currently learning
 
 - 📱 Flutter
-- Firebase
+- :fire:Firebase
 - Flutterfire
 - Django Tenants
 
