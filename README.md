@@ -71,7 +71,7 @@ I love the entire process of developing web applications. I love the challenge o
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramees777&theme=chartreuse-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramees777&layout=compact)](https://github.com/ramees777)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramees777&layout=compact&theme=chartreuse-dark)](https://github.com/ramees777)
 
 My Weekly Workflow
 
