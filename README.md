@@ -1,4 +1,4 @@
- ![Back-end developer (1)](https://user-images.githubusercontent.com/77093090/156131147-94356372-ab03-4aa3-8669-0c67ce0e6e1a.png)
+
 
 <h3 align="center">
 Hi there, I'm <a href="https://github.com/ramees777" target="_blank" rel="noreferrer">Mohammed Ramees</a> 👋
